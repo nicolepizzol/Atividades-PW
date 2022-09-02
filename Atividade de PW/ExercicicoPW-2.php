@@ -34,7 +34,7 @@ class Empregado{
     
 }
 
-$funcionarios = new Empregado( "kayke", "Denelle", 1500,00);
+$funcionarios = new Empregado( "Nicole", "Pizzol", 1500,00);
 
 echo "<p>Nome : {$funcionarios->nome}<p>";
 
